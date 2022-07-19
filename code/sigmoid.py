@@ -1,3 +1,4 @@
+from output import title, log
 from math import e, pow
 
 

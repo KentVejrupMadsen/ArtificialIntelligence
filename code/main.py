@@ -1,21 +1,11 @@
-from neuron import Neuron
+from output import title, log
 
-
-class Application:
-    def __init__(self):
-        pass
-
-    def execute(self):
-
-        pass
-
-    def print_grid(self):
-
-        pass
+import application
 
 
 if __name__ == '__main__':
-    App = Application()
+    App = application.Application()
     App.execute()
+    App.print_state()
 
 

@@ -1,3 +1,5 @@
+from output import title, log
+
 import random
 import os
 

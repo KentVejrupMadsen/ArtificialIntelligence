@@ -1,4 +1,7 @@
-from sigmoid import sigmoid
+from output import title, log
+
+from sigmoid \
+    import sigmoid
 
 
 def main():
