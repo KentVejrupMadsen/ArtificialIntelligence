@@ -1,3 +1,4 @@
+from neuron import Neuron
 
 
 class Application:
@@ -16,4 +17,5 @@ class Application:
 if __name__ == '__main__':
     App = Application()
     App.execute()
+
 
