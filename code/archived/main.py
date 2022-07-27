@@ -1,5 +1,3 @@
-from output import title, log
-
 import application
 
 
