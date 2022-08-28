@@ -90,7 +90,7 @@ def day(day_path):
     todayBuffer = []
     fit_files = parseGarmin.retrieve_fit_files(day_path)
 
-#    iterate_files(fit_files)
+    iterate_files(fit_files)
 
 
 def iterate_files(files):
