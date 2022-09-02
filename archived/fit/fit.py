@@ -1,6 +1,5 @@
 from fitparse \
-    import FitFile, \
-           FitParseError
+    import FitFile
 
 import os
 
