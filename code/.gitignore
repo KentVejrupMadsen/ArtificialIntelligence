@@ -1,2 +1,9 @@
 .venv/*
 
+user-password.py
+throttle.ctrl
+
+*.pyc
+apicache-py3/*
+
+*.lwp

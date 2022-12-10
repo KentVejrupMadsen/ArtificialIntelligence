@@ -11,7 +11,7 @@ from selenium.webdriver.common.by import By
 
 import time
 
-start = 'https://commons.wikimedia.org/wiki/Special:ListFiles?limit=500&user=Designermadsen'
+start = 'https://commons.wikimedia.org/wiki/Special:ListFiles?limit=500&user=RhinoMind'
 
 url_to_traverse = start
 
