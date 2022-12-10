@@ -3,6 +3,5 @@ venv/*
 .pywiki/*
 
 *.lwp
-*.log
 
 user-config.py
