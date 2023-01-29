@@ -1,7 +1,7 @@
 # !/usr/bin/python
 import os
 
-toBeRemoved = "OpenHardwareMonitorLog-2022-11-"
+toBeRemoved = "OpenHardwareMonitorLog-2022-12-"
 sizeOfRemoval = 0
 
 
