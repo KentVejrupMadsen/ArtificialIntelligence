@@ -1,7 +1,9 @@
+*.lwp
+*.pyc
+
 .idea/*
 venv/*
 .pywiki/*
-
-*.lwp
+.ipynb_checkpoints/*
 
 user-config.py
