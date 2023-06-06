@@ -1,9 +1,12 @@
+# File extensions
 *.lwp
 *.pyc
 
+# Directories
 .idea/*
 venv/*
 .pywiki/*
 .ipynb_checkpoints/*
 
+# Configuration file
 user-config.py
