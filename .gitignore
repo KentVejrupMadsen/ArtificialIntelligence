@@ -7,7 +7,9 @@
 
 # Directories
 .idea/*
+.venv/*
 venv/*
+
 .pywiki/*
 .ipynb_checkpoints/*
 
