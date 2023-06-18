@@ -1,4 +1,6 @@
 jupyter
+jupyterlab
+voila
 numpy
 matplotlib
 pandas
@@ -8,3 +10,7 @@ opencv-python
 keras
 tensorflow
 scikit-learn
+psycopg2
+mysql-connector-python
+pywin32
+eli5
