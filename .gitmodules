@@ -4,3 +4,6 @@
 [submodule "templates/library"]
 	path = templates/library
 	url = https://github.com/KentVejrupMadsen/Template.Python.Library.git
+[submodule "templates/application"]
+	path = templates/application
+	url = https://github.com/KentVejrupMadsen/Template.Python.Application.git
