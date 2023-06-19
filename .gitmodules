@@ -1,3 +1,6 @@
 [submodule "frameworks/Keras"]
 	path = frameworks/Keras
 	url = https://github.com/KentVejrupMadsen/Codespace.Python.Keras.git
+[submodule "templates/library"]
+	path = templates/library
+	url = https://github.com/KentVejrupMadsen/Template.Python.Library.git
