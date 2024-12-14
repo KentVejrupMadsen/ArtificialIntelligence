@@ -7,6 +7,3 @@
 [submodule "templates/application"]
 	path = templates/application
 	url = https://github.com/KentVejrupMadsen/Template.Python.Application.git
-[submodule "projects/LinearEquations"]
-	path = projects/LinearEquations
-	url = https://github.com/KentVejrupMadsen/LinearEquations.git
