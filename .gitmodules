@@ -1,9 +1,9 @@
 [submodule "frameworks/Jupyter"]
 	path = frameworks/Jupyter
 	url = https://github.com/KentVejrupMadsen/codespace.jupyter.git
-[submodule "templates/library"]
+[submodule ".templates/library"]
 	path = .templates/library
 	url = https://github.com/KentVejrupMadsen/Template.Python.Library.git
-[submodule "templates/application"]
+[submodule ".templates/application"]
 	path = .templates/application
 	url = https://github.com/KentVejrupMadsen/Template.Python.Application.git
