@@ -1,14 +1,15 @@
 # Default for all
-* text=auto
+* text=auto eol=crlf
 
-*.md text diff=markdown eol=crlf
+# Git attributes
 *.sh text diff=sh eol=lf
 *.py text diff=python eol=lf
 
-# Git attributes
 .gitignore text eol=lf
 .gitattributes text eol=lf
 
+    # Removal from publishing
 /.github export-ignore
-.archive/* export-ignore
-CHANGELOG.md export-ignore
+/.archive export-ignore
+
+*.md text diff=markdown export-ignore
