@@ -10,4 +10,5 @@
 .gitattributes text eol=lf
 
 /.github export-ignore
+.archive/* export-ignore
 CHANGELOG.md export-ignore
