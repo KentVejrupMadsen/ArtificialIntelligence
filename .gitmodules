@@ -1,6 +1,3 @@
-[submodule "frameworks/Keras"]
-	path = frameworks/Keras
-	url = https://github.com/KentVejrupMadsen/Codespace.Python.Keras.git
 [submodule "frameworks/Jupyter"]
 	path = frameworks/Jupyter
 	url = https://github.com/KentVejrupMadsen/codespace.jupyter.git
